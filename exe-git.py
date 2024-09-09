@@ -1,0 +1,1 @@
+print('-+' * 3, 'Seja bem vindo ao nosso app', '-+' * 3)
